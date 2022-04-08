@@ -4,4 +4,6 @@ I really had fun putting this one together!
 
 Technologies used: HTML, CSS and Bootstrap! :D
 
-View the live demo by clicking on the link to your right -->
+View the live demo by clicking on the link to your right --> 
+
+## Click the play button to see something cool
